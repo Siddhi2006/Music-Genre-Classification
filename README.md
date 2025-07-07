@@ -37,7 +37,7 @@ This project uses Machine Learning techniques to classify music into different g
      Purpose: Make complex data understandable and detect patterns and trends.
      
      i.Visualize the audio files using librosa library
-     ![bluess](images/bluess)
+     ![bluess](images/bluess.png)
 
      ii.Scatterplot Visualization
      
