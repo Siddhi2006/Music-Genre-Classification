@@ -46,6 +46,11 @@ This project uses Machine Learning techniques to classify music into different g
 
      ![Heatmap](images/heatmap.png)
 
+  4. Feature Selection
+     Top-20 Features Selected by Chi square test
+      ![top20](images/top20.png)
+      
+
       
      
      
