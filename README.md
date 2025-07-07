@@ -67,7 +67,9 @@ This project uses Machine Learning techniques to classify music into different g
     
     'Random Forest': 80%
 
-    ![model_compare](images/model_compare.png)
+    ![scatter3](images/scatter3.png)
+  \
+    [model_compare](images/model_compare.png)
     
 
       
