@@ -40,6 +40,8 @@ This project uses Machine Learning techniques to classify music into different g
      ![bluess](images/bluess.png)
 
      ii.Scatterplot Visualization
+
+     
      
      
 
