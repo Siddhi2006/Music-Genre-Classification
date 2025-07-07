@@ -69,11 +69,15 @@ This project uses Machine Learning techniques to classify music into different g
   
    ![model_compare](images/model_compare.png)
 
- ** Decision Tree Visualization:
+ * Decision Tree Visualization:
   ![decision](images/decision.png)
   
- ** Pruned Decision Tree:
+ * Pruned Decision Tree:
   ![pruned](images/pruned.png)
+
+# Author
+Siddhi Subhash Shendurkar
+GitHub: @Siddhi2006
 
   
 
