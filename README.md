@@ -42,6 +42,10 @@ This project uses Machine Learning techniques to classify music into different g
      ii.Scatterplot Visualization
       ![scatter1](images/scatter1.png) ![scatter3](images/scatter3.png)
 
+     iii. Heatmap Visualization
+
+     ![Heatmap](images/heatmap.png)
+
       
      
      
