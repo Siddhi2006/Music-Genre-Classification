@@ -59,17 +59,15 @@ This project uses Machine Learning techniques to classify music into different g
   6. Model testing and evaluation
      Accuracies:
      
-    'Decision Tree': 61%
+    Decision Tree: 61%
 
-    'SVM': 66%
+    SVM: 66%
     
-    'KNN': 78%
+    KNN: 78%
     
-    'Random Forest': 80%
-
-    ![scatter3](images/scatter3.png)
-  \
-    [model_compare](images/model_compare.png)
+    Random Forest: 80%
+  
+   ![model_compare](images/model_compare.png)
     
 
       
