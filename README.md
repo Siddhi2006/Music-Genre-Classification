@@ -21,7 +21,7 @@ This project uses Machine Learning techniques to classify music into different g
 - Zero Crossing Rate
 - Spectral Roll-off
 
-  # Model Building Steps:
+# Model Building Steps:
   1. Data Collection:
      Source : Kaggle
      Dataset Used: - **Dataset**: [GTZAN Music Genre Dataset](https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification)
@@ -35,5 +35,6 @@ This project uses Machine Learning techniques to classify music into different g
 
   3. Data Visualization
      i.Visualize the audio files using llibrosa
+     ![waveform](images/Screenshot 2025-04-12 142901.png)
      
 
