@@ -49,6 +49,20 @@ This project uses Machine Learning techniques to classify music into different g
   4. Feature Selection
      Top-20 Features Selected by Chi square test
       ![top20](images/top20.png)
+
+  5. Model Selection
+     1. Decision Tree
+     2. Suport Vector machines
+     3. K-Nearest Neighbour
+     4. Random Forest
+
+  6. Model testing and evaluation
+     Accuracies:
+    'Decision Tree': 61%
+    'SVM': 66%
+    'KNN': 78%
+    'Random Forest': 80%
+
       
 
       
