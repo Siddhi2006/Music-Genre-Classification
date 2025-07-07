@@ -57,7 +57,7 @@ This project uses Machine Learning techniques to classify music into different g
      4. Random Forest
 
   6. Model testing and evaluation
-     Accuracies:
+    Accuracies:
      
     Decision Tree: 61%
 
@@ -77,6 +77,7 @@ This project uses Machine Learning techniques to classify music into different g
 
 # Author
 Siddhi Subhash Shendurkar
+
 GitHub: @Siddhi2006
 
   
