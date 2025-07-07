@@ -20,3 +20,20 @@ This project uses Machine Learning techniques to classify music into different g
 - Spectral Centroid
 - Zero Crossing Rate
 - Spectral Roll-off
+
+  # Model Building Steps:
+  1. Data Collection:
+     Source : Kaggle
+     Dataset Used: - **Dataset**: [GTZAN Music Genre Dataset](https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification)
+     Genres Included: Blues, Classical, Country, Disco, Hiphop, Jazz, Metal, Pop, Reggae, Rock.
+
+  2. Data Preprocessing
+     Data preprocessing is the first and most important step in any machine learning pipeline.It means cleaning, transforming, and preparing your raw data so that a machine       learning model can understand and learn from it.
+     Label Encoding	LabelEncoder().fit_transform()	Converts genres to numbers
+     Feature/Label Split	X = data.drop(), y = data['label']	Separates inputs & target
+     Scaling	MinMaxScaler()	Normalizes data (not yet applied)
+
+  3. Data Visualization
+     i.Visualize the audio files using llibrosa
+     
+
