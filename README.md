@@ -34,7 +34,12 @@ This project uses Machine Learning techniques to classify music into different g
      Scaling	MinMaxScaler()	Normalizes data (not yet applied)
 
   3. Data Visualization
-     i.Visualize the audio files using llibrosa
-     ![waveform](images/Screenshot 2025-04-12 142901.png)
+     Purpose: Make complex data understandable and detect patterns and trends.
+     
+     i.Visualize the audio files using librosa library
+     ![bluess](images/bluess)
+
+     ii.Scatterplot Visualization
+     
      
 
